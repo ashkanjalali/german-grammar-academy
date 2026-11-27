@@ -62,3 +62,12 @@ Question answer indexes are zero-based. The demo app uses `userId=demo`; replace
 - Add richer exam sections (reading, listening, writing and speaking), rubrics and human/AI-assisted writing feedback.
 - Add editorial workflow and source/reviewer metadata for curriculum content.
 - Add accessibility, localization, automated tests and CI/CD.
+
+
+© Copyright & Intellectual Property Notice
+Let's Learn Deutsch is an original project created and owned by Ashkan Jalali.
+All rights reserved. The source code, original design, branding, documentation, graphics, and other original materials are protected by applicable intellectual property laws.
+No one may copy, reproduce, redistribute, modify, publish, or commercially use this project's original materials without prior written permission from the owner.
+This project is proprietary. Viewing the repository does not grant permission to reuse or distribute its contents.
+Please respect the original work, creativity, and development behind Let's Learn Deutsch.
+© 2026 Ashkan Jalali. All Rights Reserved.
